@@ -13,4 +13,4 @@ jobs:
       - mvn test
 
 notification:
-  email: info@techprimers.com
+  email: 
